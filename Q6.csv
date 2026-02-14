@@ -1,0 +1,5 @@
+"row_number() over (order by attendance)",course,attendance
+1,Tableau,268
+2,Python,351
+3,SQL,352
+4,"Data Science",356

@@ -1,0 +1,16 @@
+"dense_rank() over (order by score)",name,course,score
+1,"Ayesha Khan",Python,67
+2,"Yuvraj Rao",Python,71
+3,"Dev Sharma",SQL,73
+4,"Sneha Kulkarni",Tableau,74
+5,"Riya Singh","Data Science",76
+6,"Nikhil Rao","Data Science",79
+7,"Meera Pillai",Tableau,82
+8,"Tanvi Patel",SQL,84
+9,"Siddharth Jain",Python,85
+10,"Aarav Mehta","Data Science",88
+11,"Rohan Gupta",SQL,89
+12,"Kabir Khanna",Python,91
+13,"Priya Desai",SQL,92
+14,"Ishita Joshi","Data Science",93
+15,"Arjun Verma",Tableau,95
